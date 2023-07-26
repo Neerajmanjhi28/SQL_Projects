@@ -1,4 +1,4 @@
-                                               "SQL querries"
+                                             
 
   /* QUESTION SET 1 */
 
